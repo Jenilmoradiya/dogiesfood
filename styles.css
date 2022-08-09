@@ -1,0 +1,157 @@
+
+h1{
+ font-family: 'Ubuntu', sans-serif;
+font-size: 50px;
+line-height: 1.5;
+font-weight: bold;
+}
+.row{
+padding: 3% 10% 3% 10%;
+}
+
+.navbar{
+ font-weight: bolder;
+padding-left: 70px;
+padding-top: 3%;
+font-family: 'Lato', sans-serif;
+font-size: 30px;
+padding-right: 7%;
+}
+.download-button{
+
+    margin: 5% 2% 5%;
+}
+    .topright{
+margin-left: 100%;
+  }
+.photo{
+    width: 17%;
+    transform: rotate(30deg);
+ margin-left: 50px;
+   position: absolute;
+}
+
+#features{
+
+    padding: 10% 5% 10% 5% ;
+   background-color: #fff;
+  
+   position: relative;
+}
+
+.features-1{
+    text-align: center;
+  padding: 5%;
+}
+h3{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bolder;
+}
+.icon{
+    color:#B2A4FF ;
+    margin-bottom: 20px;
+}
+.icon:hover{
+    color: #7A4495;
+}
+
+
+
+
+
+
+
+#testimonials{
+    text-align: center;
+    
+    background-color:#B2A4FF;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bolder;
+}
+.carousel-item{
+    padding: 12% 20% 12% 20%;
+
+}
+
+.dogphoto{
+
+    width: 15%;
+   margin-top: 40px;
+    border-radius: 100%;
+}
+    .testimonial-image{
+        width: 13%;
+        height: auto;
+   margin-top: 40px;
+    border-radius: 100%;
+}
+
+
+#press{
+    text-align: center;
+    background-color: #B2A4FF;
+    padding-bottom: 60px;
+}
+.logos{
+width: 15%;
+margin-left: 20px;
+}
+em{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bolder;
+    margin-left: 20px;
+  
+}
+    .dog{
+
+        font-family: 'Ubuntu', sans-serif;
+        font-weight: bolder;
+        font-size: 40px;
+    }
+
+
+
+
+
+
+
+
+.card{
+    text-align: center;
+}
+
+.head{
+    padding-left: 12%;
+    padding-top: 7%;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bolder;
+}
+
+@media (max-width: 1028px) {
+ .photo{
+    position: static;
+    width: 45%; 
+    transform: rotate(0);
+    text-align: center;
+ }
+.row{
+    text-align: center;
+}
+
+}
+
+#cta{
+    text-align: center;
+    padding:  12% 30% 12% 30%;
+    background-color: #B2A4FF;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bolder;
+  
+}
+#footer{
+    text-align: center;
+    padding:  3% 30% 3% 30%;
+}
+.icons{
+    margin: 6px;
+}
